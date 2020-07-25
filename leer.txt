@@ -1,4 +1,4 @@
 Roberto Cruz Mendoza.
-El proyecto correra en Visual Studio Code. Se tendran que tener las herramientas necesarias de 'npm'.
+El proyecto correra en Visual Studio Code. Se tendran que tener las herramientas necesarias de 'npm install'.
 Segui un Tutorial de Vue js. ya que no es mi fuerte en el marco de JavaScript.
 Quisiera ambientarlo en Laravel, pues seria la idea mas adecuada de ejecutar Vuejs y Laravel.
